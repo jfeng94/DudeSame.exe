@@ -14,11 +14,11 @@ In order to get this to run, we need a few things. Here is a list of things we n
 Find it online for your respective OS
 
 ## Bower
-Once you've installed nodeJS and it's affiliated package manager, npm, simply type in:
+Once you've installed nodeJS and it's affiliated package manager, npm (Node Package Manager), simply type in:
 
 `npm install -g bower`
 
-We will then have two package managers; bower and nodeJS. Bower will take care of the front end packages, while NodeJS will take care of the backend packages.
+We will then have two package managers; bower and npm. Bower will take care of the front end packages, while npm will take care of the backend packages.
 
 ## MongoDB
 This will be the database we'll be using. You don't really need to install it, but if you want MongoDB to manually check the database stuff, here is how to install:
