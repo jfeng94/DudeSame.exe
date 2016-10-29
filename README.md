@@ -24,8 +24,9 @@ We will then have two package managers; bower and nodeJS. Bower will take care o
 This will be the database we'll be using. You don't really need to install it, but if you want MongoDB to manually check the database stuff, here is how to install:
 
 For Mac:
-	* `brew update`
-	* `brew install mongodb`
+
+* `brew update`
+* `brew install mongodb`
 
 For Ubuntu:
 	TODO
